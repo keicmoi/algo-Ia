@@ -2,13 +2,21 @@
 pour la création d'une ia dans le cadre du cours d'algorithmie 2025
 
 step 1 : ajouter les membre et les acces X
+
 step 2 : déposer une base Unity fonctionnelle pour la création de terrain X
+
 step 3 : creer un personnage mouvable "pablo ia"
+
 step 3.1 : creer une sortie de fin de game 
+
 step 4 : creer une ia et coonfig les condition 
+
 step 5 : donner les commande a une ia X
+
 step 6 : creer les contrainte des object X que sa fait des dégat et autre
+
 step 7 : faire un meilleur affichage de fond ,point de vie, musique , afficher se que il comprend (une petite fenetre"pablo a décoouvert le piege X " ) 
+
 step 8 : faire un mod "creation de map " pour faire des map custom 
 
 
